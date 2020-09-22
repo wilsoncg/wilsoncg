@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Craig 👋
 
+### Recent work
+* Conversion of blog from jekyll to F# [wilsoncg.github.io](https://github.com/wilsoncg/wilsoncg.github.io)
+* Powershell [sha256](https://github.com/wilsoncg/PowershellToolbox/blob/master/sha256.ps1) & [registry manipulation](https://github.com/wilsoncg/PowershellToolbox/blob/master/removeSkypeContextMenu.ps1) scripts
+* [Codility questions](https://github.com/wilsoncg/Revise)
+* Jupyter notebook with F#, [dockerfile](https://github.com/wilsoncg/Jupyter.Notebooks) running in [mybinder](https://mybinder.org/v2/gh/wilsoncg/Jupyter.Notebooks/master?urlpath=%2Fnotebooks%2FXPlot.ipynb) 
+* Coyote [investigations](https://github.com/wilsoncg/Revise/tree/master/CoyotePlayground)
+* [Docker mastery course](https://github.com/wilsoncg/docker)
 <!--
 **wilsoncg/wilsoncg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
