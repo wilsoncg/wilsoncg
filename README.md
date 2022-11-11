@@ -1,7 +1,7 @@
 ### Hi there, I'm Craig 👋
 
 ### Recent work 🌱
-* Upgrade Azure C# serverless bot & connect to twitter API - [wilsoncg/bot](https://github.com/wilsoncg/bot)
+* Upgrade Azure C# serverless bot & connect to twitter API - [wilsoncg/bot](https://github.com/wilsoncg/bot) - [www.wilsoncg.net/bot](https://www.wilsoncg.net/bot)
 * Conversion of blog from jekyll to F# - [wilsoncg/wilsoncg.github.io](https://github.com/wilsoncg/wilsoncg.github.io)
 * Powershell [sha256](https://github.com/wilsoncg/PowershellToolbox/blob/master/sha256.ps1) & [registry manipulation](https://github.com/wilsoncg/PowershellToolbox/blob/master/removeSkypeContextMenu.ps1) scripts
 * [Codility questions](https://github.com/wilsoncg/Revise)
